@@ -16,4 +16,3 @@ Olá! Eu sou Sulivan Souza 👏
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   </div><br/>
   
-  Buscando aprimorar meu conhecimento em programação, adquirir experiência e soft skill importantes para meu crescimento profissional.
