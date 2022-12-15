@@ -1,5 +1,7 @@
 Olá! Eu sou Sulivan Souza 👏
-
+  
+ <a href="https://github.com/Sulivan7">
+  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulivansouza7/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sulivan_souza/)
 
@@ -19,5 +21,5 @@ Olá! Eu sou Sulivan Souza 👏
   <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
 </div><br/>
-  
-  
+
+ ![Snake animation](https://github.com/Sulivan7/Sulivan7/blob/output/github-contribution-grid-snake.svg)
