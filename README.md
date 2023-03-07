@@ -3,7 +3,6 @@ Olá! Eu sou Sulivan Souza 👏
  <a href="https://github.com/Sulivan7">
   
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulivansouza7/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sulivan_souza/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sulivan7&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sulivan7&layout=compact=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
@@ -18,7 +17,6 @@ Olá! Eu sou Sulivan Souza 👏
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
 </div><br/>
 
