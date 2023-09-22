@@ -4,8 +4,8 @@ Olá! Eu sou Sulivan Souza 👏
   
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulivansouza7/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sulivan7&show_icons=true&theme=apprentice)](https://github.com/sulivan7/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulivan7&theme=apprentice&layout=compact)
+![](https://raw.githubusercontent.com/Sulivan7/Sulivan7/main/profile-summary-card-output/ayu_mirage/3-stats.svg)
+![](https://raw.githubusercontent.com/Sulivan7/Sulivan7/main/profile-summary-card-output/ayu_mirage/1-repos-per-language.svg)
 
 ### Tecnologias que estudo diariamente 📚
 <div style="display: inline_block"><br/>
