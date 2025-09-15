@@ -1,5 +1,5 @@
 <h4>👋 Olá, eu sou o Sulivan.</h4>
-<p>📚 Atualmente estudo desenvolvimento fullstack, com interesse especial pelo back-end.</p>
+<p>📚 Atualmente estudo desenvolvimento Front-end.</p>
 <p>🍃 Estou em busca da minha primeira oportunidade na área de tecnologia.</p>
 
 <hr>
