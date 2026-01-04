@@ -2,7 +2,7 @@
 
 <p align="left">
   📚 Estudo <strong>Desenvolvimento Front-end</strong><br>
-  🍃 Buscando minha primeira oportunidade em <strong>Tecnologia</strong><br>
+  🍃 Buscando minha primeira oportunidade na area de <strong>Tecnologia</strong><br>
   🎯 Sempre em busca de novos conhecimentos e desafios
 </p>
 
