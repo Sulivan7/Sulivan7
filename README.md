@@ -24,7 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulivan7&layout=compact&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="Top Languages"/>
 </div>
 
-<h4>Stack</h4>
+<br/>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript"/> &nbsp;
