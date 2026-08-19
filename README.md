@@ -1,42 +1,39 @@
-<img src="./assets/logo.png" alt="Dark Souls Artwork" width="150" align="right"/>
+---
 
-### Sulivan Prenholato
+
+<h3>Sulivan Prenholato</h3>
 
 ---
 
-<br/>
-
 <p>
-  Desenvolvedor Front-end em desenvolvimento <br/>
-  Construindo projetos reais e evoluindo com consistência.
+  Desenvolvedor Front-end <br/>
+  Buscando estágio ou posição júnior na área.
 </p>
 
 <h4>Sobre</h4>
 
-- Estudando Front-end e evoluindo na prática com projetos.
-- Buscando minha primeira oportunidade na área de tecnologia.
-- Interesse em performance, UX/UI e código organizado.
+- Tecnólogo em Análise e Desenvolvimento de Sistemas, cursando Ciência da Computação.
+- Construo interfaces com React, TypeScript e Next.js — os projetos estão fixados abaixo.
+- Trabalho no comércio e estudo em paralelo.
+- Estudando agora: consumo de APIs, Redux, testes automatizados e fundamentos de back-end.
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sulivan7&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulivan7&layout=compact&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="Top Languages"/>
-</div>
-
-<br/>
+<h4>Stack</h4>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="Redux Toolkit"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/styledcomponents/styledcomponents-original.svg" height="30" alt="Styled Components"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="SASS"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="Jest"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="30" alt="Vite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="30" alt="Gulp"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="30" alt="Vite"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/>
 </div>
+
+<h4>Contato</h4>
+
+<a href="https://www.linkedin.com/in/sulivan-prenholato-b18667328/">LinkedIn</a> &nbsp;·&nbsp; devsulivan@gmail.com
 
 ---
